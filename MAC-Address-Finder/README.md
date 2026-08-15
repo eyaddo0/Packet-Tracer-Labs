@@ -33,3 +33,9 @@ Concepts practiced
 • Basic network connectivity
 
 -------------------------
+
+In order to try out the project please follow these steps:
+1. Download the (.pkt) file on your device
+2. Run the lab using Cisco Packet Tracer
+
+-------------------------
