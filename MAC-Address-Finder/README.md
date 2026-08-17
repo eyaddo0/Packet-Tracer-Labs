@@ -1,4 +1,4 @@
-MAC Address Finder
+# MAC Address Finder
 
 A simple cisco packet tracer lab demonstrating basic communication between
 devices on the same local network and how MAC address can be discovered using
@@ -6,14 +6,14 @@ Address Resolution Protocol (ARP)
 
 -------------------------
 
-Lab setup
+# Lab setup
 
 • 1 switch
 • 3 End devices (X, Y, Z)
 
 -------------------------
 
-What i did:
+# What i did:
  
 • Connected all devices to the switch
 • Assigned IPv4 addresses for each device (X: 192.168.1.10 / Y: 192.168.1.20 / Z: 192.168.1.30)
