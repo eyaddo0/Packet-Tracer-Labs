@@ -30,3 +30,10 @@ A simple DHCP Server which assigns IP addresses for each device automatically.
 • Default gateway configuration \
 • DNS Server configuration \
 • Network connectivity testing
+
+-------------------------
+
+# In order to try out the project please follow these steps:
+1. Click on "DHCPServer.pkt"
+2. Download the (.pkt) file ("Download Raw file")
+3. Run the lab using Cisco Packet Tracer
