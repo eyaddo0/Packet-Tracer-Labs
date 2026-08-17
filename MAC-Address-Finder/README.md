@@ -13,7 +13,7 @@ Address Resolution Protocol (ARP)
 
 -------------------------
 
-# What i did:
+# What I did
  
 • Connected all devices to the switch
 • Assigned IPv4 addresses for each device (X: 192.168.1.10 / Y: 192.168.1.20 / Z: 192.168.1.30)
@@ -24,7 +24,7 @@ Address Resolution Protocol (ARP)
 
 -------------------------
 
-Concepts practiced
+# Concepts practiced
 
 • IPv4 Addressing
 • MAC Address
@@ -34,7 +34,7 @@ Concepts practiced
 
 -------------------------
 
-In order to try out the project please follow these steps:
+# In order to try out the project please follow these steps:
 1. Click on "SwitchARPnetworkLab.pkt"
 2. Download the (.pkt) file ("Download Raw file")
 3. Run the lab using Cisco Packet Tracer
